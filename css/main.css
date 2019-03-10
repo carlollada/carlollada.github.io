@@ -80,12 +80,12 @@ ul.posts li {
 
 }
 .bgimg-1 {
-  background-image: url("robot1.gif");
+  background-image: url("images/robot1.gif");
   min-height: 100%;
 }
 
 .bgimg-2 {
-  background-image: url("robot2.png");
+  background-image: url("images/robot2.png");
   min-height: 400px;
 }
 
